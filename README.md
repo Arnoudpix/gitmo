@@ -1,5 +1,6 @@
 # gitmo
 #####################
+#
 class Color {
 
     public $color = "";
